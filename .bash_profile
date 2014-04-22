@@ -1,6 +1,5 @@
 # Custom prompt
-PS1='\[\e[32;1m\]\u\[\e[31;1m\]@\H\[\e[34;1m\]:\w\[\e[37;1m\] \n'
-PS1+='$ \[\e[0m\]'
+#PS1='\[\e[32;1m\]\u\[\e[31;1m\]@\H\[\e[34;1m\]:\w\[\e[37;1m\] \n$ \[\e[0m\]'
 # Aliases
 alias ll='ls -laF --color --show-control-chars'
 alias cls='clear'

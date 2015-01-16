@@ -1,4 +1,4 @@
-#Console2
+#Console2 for windows
 
 ###For color shell :
 put **.bash_profile** in C:\Users\user-name

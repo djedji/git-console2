@@ -1,9 +1,9 @@
 #Console2
 
-###color shell :
+###For color shell :
 put **.bash_profile** in C:\Users\user-name
 
-###program :
+###Installation :
 put directory **console2** in git installation directory : C:\Program Files (x86)\Git
 
 *more information see :* 

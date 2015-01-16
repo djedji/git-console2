@@ -4,7 +4,7 @@
 put **.bash_profile** in C:\Users\user-name
 
 ###program :
-*put directory console in git installation directory :* C:\Program Files (x86)\Git
+put directory **console2** in git installation directory : C:\Program Files (x86)\Git
 
 *more information see :* 
 

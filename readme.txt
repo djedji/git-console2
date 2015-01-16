@@ -1,3 +1,5 @@
+#Console2
+
 # color shell
 put .bash_profile in C:\Users\(user-name)
 
